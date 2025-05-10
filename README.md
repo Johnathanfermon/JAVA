@@ -9,6 +9,8 @@
 | `MatrixAddition.java`      | Matrix addition                     |
 
 
+ConvertTimeFormats.java Is not a Perfect java code to understand , i wrote it when i was in sophomore year but it Works.
+
 🛠️ How to compile and run (if you want to test)
 
 javac AcceptStringMethod1.java
